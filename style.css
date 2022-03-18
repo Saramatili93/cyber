@@ -87,7 +87,7 @@ margin-bottom: 180px;
 
 .containerPage4{
     
-    width: 720px;
+width: 720px;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -96,9 +96,29 @@ margin: auto;
 margin-bottom: 180px;
 }
 
-.pPage5{
-text-align: center;
+
+/* SOLUTIONS */
+
+.divSolutions{
 width: 500px;
 margin: auto;
-margin-bottom: 300px;
+}
+
+.pPage5{
+/* text-align: center; */
+/* width: 500px; */
+/* margin: auto; */
+margin-bottom: 20px;
+}
+
+ul{
+    font-size: 20px;
+    margin-bottom: 190px;
+    margin-left: 20px;
+}
+
+.copyright{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: small;
 }
